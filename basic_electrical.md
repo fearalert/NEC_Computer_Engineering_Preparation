@@ -615,7 +615,3 @@ Assuming \( R_L = 8\, \Omega \),
 \[ P_{\text{max}} = \frac{15^2}{2 \times 8} = \frac{225}{16} \approx 14.06\, \text{W} \]
 
 ---
-
-## Conclusion
-
-This study guide provides a comprehensive overview of the key concepts in Basic Electrical and Electronics Engineering as per your syllabus. Practice the provided problems and understand the underlying principles to prepare effectively for your engineering license exam. Good luck!
