@@ -43,7 +43,7 @@ The C programming language is one of the foundational programming languages, par
 
 3. **Q3**: Which control statement is used to exit from a loop?  
    A) `break`  
-   B) `continue`  
+   B) `continue`
    C) `goto`  
    D) `return`  
    **Answer**: A) `break`
